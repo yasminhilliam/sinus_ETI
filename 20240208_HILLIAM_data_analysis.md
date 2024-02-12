@@ -1,9 +1,3 @@
----
-title: "Cystic fibrosis pathogens persist in the upper respiratory tract following initiation of elexacaftor/tezacaftor/ivacaftor therapy"
-subtitle: "Analysis coding notebook"
-author: "Yasmin Hilliam, PhD"
-output: html_notebook
----
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = TRUE,
                       collapse = TRUE)
@@ -572,8 +566,8 @@ write.csv(allAlpha,
                     "all_sample_alpha_diversity_tidy.csv"),
           row.names = FALSE)
 ```
-##### Import data
-<h6>Data acquired from viewing "demux-viz.qzv" file in *QIIME* web viewer</h6>
+#### Import data
+##### Data acquired from viewing "demux-viz.qzv" file in *QIIME* web viewer
 ```{r, message = FALSE}
 exos <- read_tsv(file.path(wd,
                            "primer_data",
