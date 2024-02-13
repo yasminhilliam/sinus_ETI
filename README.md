@@ -37,5 +37,5 @@ Simpson: Calculated Simpson diversity <span>&#167;</span><br>
 <br>
 <br>
 <span>&#167;</span> 20240208_HILLIAM_sinus_data.csv only<br>
-<span>&#142;</span> 20240208_HILLIAM_paired_data.csv only
+<span>&#42;</span> 20240208_HILLIAM_paired_data.csv only
 
