@@ -12,7 +12,7 @@ This repository contains code and subset data files generated and used in analys
 <br>
 <hr>
 <br>
-### Data file headers:
+### Data file headers:<br>
 OTU: Amplicon sequence variant (ASV) assigned through QIIME2 and Silva database<br>
 Abundance: Count per ASV<br>
 index: Unique sample identifier (SUBJECTID_SAMPLELOCATION_SAMPLEDATE)<br>
@@ -35,6 +35,6 @@ Shannon: Calculated Shannon diversity <span>&#167;</span><br>
 Simpson: Calculated Simpson diversity <span>&#167;</span><br>
 <br>
 <br>
-<span>&#167;</span> 20240208_HILLIAM_paired_data.csv only<br>
-<span>&#42;</span> 20240208_HILLIAM_paired_data.csv only
+<span>&#42;</span> 20240208_HILLIAM_paired_data.csv only<br>
+<span>&#167;</span> 20240208_HILLIAM_paired_data.csv only
 
