@@ -10,31 +10,31 @@ This repository contains code and subset data files generated and used in analys
 <br>
 <span>&#8224;</span> Data in these tables have been processed through QIIME2, phyloseq, and vegan and then filtered to only include samples from relevant subjects.
 <br>
-***
+<hr>
 <br>
 ### Data file headers:
-OTU: Amplicon sequence variant (ASV) assigned through QIIME2 and Silva database
-Abundance: Count per ASV
-index: Unique sample identifier (SUBJECTID_SAMPLELOCATION_SAMPLEDATE)
-id: Identified for paired samples (SUBJECTID_SAMPLEDATE) <span>&#42;</span>
-sampleloc: Sampling location (sinus or sputum) <span>&#42;</span>
-patientid: Anonymised subject identifier <span>&#167;</span>
-date: Sample collection date (MM/DD/YY)
-hemt: Elexacaftor/tezacaftor/ivacaftor (ETI) status of subject at sample date <span>&#167;</span>
-kingdom: Assigned kingdom
-phylum: Assigned phylum
-class: Assigned class
-order: Assigned order
-family: Assigned family
-genus: Assigned genus
-rel_ab: Calculated relative abundance (%)
-mean_cn: Mean 16S copy number from duplicate qPCR results
-Observed: Calculated Observed diversity <span>&#167;</span>
-Chao1: Calculated CHAO1 diversity <span>&#167;</span>
-Shannon: Calculated Shannon diversity <span>&#167;</span>
-Simpson: Calculated Simpson diversity <span>&#167;</span>
+OTU: Amplicon sequence variant (ASV) assigned through QIIME2 and Silva database<br>
+Abundance: Count per ASV<br>
+index: Unique sample identifier (SUBJECTID_SAMPLELOCATION_SAMPLEDATE)<br>
+id: Identified for paired samples (SUBJECTID_SAMPLEDATE) <span>&#42;</span><br>
+sampleloc: Sampling location (sinus or sputum) <span>&#42;</span><br>
+patientid: Anonymised subject identifier <span>&#167;</span><br>
+date: Sample collection date (MM/DD/YY)<br>
+hemt: Elexacaftor/tezacaftor/ivacaftor (ETI) status of subject at sample date <span>&#167;</span><br>
+kingdom: Assigned kingdom<br>
+phylum: Assigned phylum<br>
+class: Assigned class<br>
+order: Assigned order<br>
+family: Assigned family<br>
+genus: Assigned genus<br>
+rel_ab: Calculated relative abundance (%)<br>
+mean_cn: Mean 16S copy number from duplicate qPCR results<br>
+Observed: Calculated Observed diversity <span>&#167;</span><br>
+Chao1: Calculated CHAO1 diversity <span>&#167;</span><br>
+Shannon: Calculated Shannon diversity <span>&#167;</span><br>
+Simpson: Calculated Simpson diversity <span>&#167;</span><br>
 <br>
 <br>
-<span>&#167;</span> 20240208_HILLIAM_paired_data.csv only
+<span>&#167;</span> 20240208_HILLIAM_paired_data.csv only<br>
 <span>&#42;</span> 20240208_HILLIAM_paired_data.csv only
 
