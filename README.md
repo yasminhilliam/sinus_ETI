@@ -12,8 +12,8 @@ This repository contains code and subset data files generated and used in analys
 <br>
 <hr>
 <br>
-### Data file headers:<br>
-
+### Data file headers:
+<br>
 OTU: Amplicon sequence variant (ASV) assigned through QIIME2 and Silva database<br>
 Abundance: Count per ASV<br>
 index: Unique sample identifier (SUBJECTID_SAMPLELOCATION_SAMPLEDATE)<br>
