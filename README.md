@@ -1,6 +1,6 @@
 # Cystic fibrosis pathogens persist in the upper respiratory tract following initiation of elexacaftor/tezacaftor/ivacaftor therapy
 
-This repository contains code and subset data files generated and used in analysis in the publication of this manuscript. FASTA files for samples analyzed in this manuscript can be accessed through NCBI (ACC). Please contact Jennifer Bomberger (corresponding author; jbomb@dartmouth.edu) for other data availability.
+This repository contains code and subset data files generated and used in analysis in the publication of this manuscript. FASTA files for samples analyzed in this manuscript can be accessed through NCBI (<a href="https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1081394">PRJNA1081394</a>). Please contact Jennifer Bomberger (corresponding author; jbomb@dartmouth.edu) for other data availability.
 
 ### File list:
 * <a href="https://github.com/yasminhilliam/sinus_ETI/blob/main/20240208_HILLIAM_data_analysis.md">20240208_HILLIAM_data_analysis.md</a>: Bash and R code used in the preparation of this manuscript.<br>
